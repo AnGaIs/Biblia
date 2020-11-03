@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group  android:checkableBehavior="single" >
+        <item
+            android:id="@+id/idFavoritos"
+            android:icon="@drawable/ic_check"
+            android:title="@string/title_favoritos"/>
+        <item
+            android:id="@+id/idAnotacoes"
+
+            android:icon="@drawable/ic_description_black_24dp"
+            android:title="@string/title_anotacoes" />
+    </group>
+    <group  android:checkableBehavior="single" >
+        <item android:title="Livros">
+            <menu>
+                <item
+                    android:id="@+id/itemfake"
+                    android:title=" "/>
+            </menu>
+        </item>
+    </group>
+
+</menu>

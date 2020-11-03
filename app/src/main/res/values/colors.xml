@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9b7d50</color>
+    <color name="colorPrimaryDark">#7b5f35</color>
+
+    <color name="grey100">#ffffff</color>
+    <color name="primary">#9c27b0</color>
+    <color name="primary_dark">#4a148c</color>
+    <color name="accent">#6c583a</color>
+    <color name="marca_texto">#3F51B5</color>
+
+    <color name="verde_florecente">#eaff79</color>
+    <color name="roxo_florecente">#c183ff</color>
+    <color name="colorAccent">#ff7daa</color>
+    <color name="colorGrafit">#595959</color>
+    <color name="colorBlack">#000000</color>
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.umservodemaria.napalavra">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="br.com.umservodemaria.napalavra.activity.MainActivity"
+            android:label="@string/app_name"
+            android:noHistory="true"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="br.com.umservodemaria.napalavra.activity.AnotacoesActivity"
+            android:label="@string/title_anotacoes"
+            android:noHistory="true" />
+        <activity
+            android:name="br.com.umservodemaria.napalavra.activity.FavoritosActivity"
+            android:label="@string/title_favoritos"
+            android:noHistory="true"></activity>
+        <activity
+            android:name="br.com.umservodemaria.napalavra.activity.SettingsActivity"
+            android:label="@string/action_settings"></activity>
+        <activity
+            android:name="br.com.umservodemaria.napalavra.activity.AdicionarAnotacoesActivity"
+            android:label="@string/title_activity_adicionar_anotacoes"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

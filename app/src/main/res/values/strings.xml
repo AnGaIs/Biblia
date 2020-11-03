@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Na Palavra</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_remove">Remover</string>
+    <string name="selected_count">%1$s Selecionado(s)</string>
+    <string name="action_settings">Informações</string>
+    <string name="title_favoritos">Favoritos</string>
+    <string name="title_anotacoes">Anotações</string>
+    <string name="favorito_salvo">Favoritos Salvo</string>
+    <string name="selecione_versiculo">Selecione um versiculo</string>
+    <string name="selecione_apenas_um_versiculo">Selecione apenas um versiculo</string>
+    <string name="title_activity_adicionar_anotacoes">Anotações</string>
+</resources>
